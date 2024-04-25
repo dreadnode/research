@@ -9,3 +9,7 @@ Implementation of ["Universal and Transferable Adversarial Attacks on Aligned La
 **[Mistral - BEAST Beam Attack](notebooks/Mistral%20-%20BEAST%20Beam%20Attack.ipynb)**
 
 Implementation of ["Fast Adversarial Attacks on Language Models In One GPU Minute"](https://arxiv.org/pdf/2402.15570.pdf) for Mistral 7B. At the time of release the authors have not posted the reference code from the paper, so this implementation is likely incorrect.
+
+**[Llama PGD](scripts/pgd.py)**
+
+Implementation of ["Attacking Large Language Models with Projected Gradient Descent"](https://arxiv.org/abs/2402.09154) for Llama model variants with LitGPT. At teh time of release the authors have not posted any reference code, so be careful.

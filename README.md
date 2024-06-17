@@ -13,3 +13,7 @@ Implementation of ["Fast Adversarial Attacks on Language Models In One GPU Minut
 **[Llama PGD](scripts/pgd.py)**
 
 Implementation of ["Attacking Large Language Models with Projected Gradient Descent"](https://arxiv.org/abs/2402.09154) for Llama model variants with LitGPT. At teh time of release the authors have not posted any reference code, so be careful.
+
+**Needle [Triage](notebooks/Needle%20-%20Triage.ipynb)/[Fix](notebooks/Needle%20-%20Fix.ipynb)**
+
+Research in partnership with [OpenSSF](https://openssf.org) for the [AIxCC Event](https://aicyberchallenge.com/).
